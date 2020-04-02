@@ -14,5 +14,4 @@ Bonus feature that could be added in the future but not in the requirement: Page
 
 ## Attempting Exceeds Expectations with
 
-Search Functionality with results paginated
-No Results Message
+Search Functionality with results paginated and no Results Message
